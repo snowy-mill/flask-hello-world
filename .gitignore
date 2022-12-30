@@ -43,3 +43,4 @@ __pycache__
 instance/
 .webassets-cache
 __pypackages__/
+*.db
